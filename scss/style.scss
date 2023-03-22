@@ -1,8 +1,4 @@
 @import './components/header';
 @import './components/main';
-@import './components/footer'
-@import
-"base",
-"layout",
-"syntax-highlighting",
-"bootstrap";
+@import './components/footer';
+@import './node_modules/boostrap/scss/boostrap.scss';
